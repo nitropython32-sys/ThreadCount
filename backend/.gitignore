@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Image outputs
+*.png
+*.jpg
+
+# Environment variables
+.env
+
+# Test scripts
+display_mask.py
+obj_test.py
+
+# SSL certificates
+*.pem
